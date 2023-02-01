@@ -1,2 +1,2 @@
 # Django-Applications
-A collection of Django Apps with Postgres db management
+A Django App with Postgres db management on the backend
